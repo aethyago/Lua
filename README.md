@@ -11,7 +11,7 @@ Bem-vindo ao repositório da <b>Lua</b>, o bot público de Discord criado para o
 ### Comandos
 
 <ul>
-  <li><b>Comando 1</b>: Descrição do comando 1.</li>
+  <li><b>Daily</b>: Um comando que gera aleatoriamente uma quantidade de RP's por dia para o usuário.</li>
   <li><b>Comando 2</b>: Descrição do comando 2.</li>
   <li><b>Comando 3</b>: Descrição do comando 3.</li>
 </ul>
