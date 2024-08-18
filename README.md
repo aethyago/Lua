@@ -1,10 +1,10 @@
 # Lua
 
-Bem-vindo ao repositório do <b>Lua</b>, o bot público de Discord criado para oferecer uma experiência divertida e interativa para os usuários. Abaixo, você encontrará informações sobre os comandos e sistemas que implementei na Lua.
+Bem-vindo ao repositório da <b>Lua</b>, o bot público de Discord criado para oferecer uma experiência divertida e interativa para os usuários. Abaixo, você encontrará informações sobre os comandos e sistemas que implementei na Lua.
 
 ## Sobre a Lua
 
-<b>Lua</b> é um bot de Discord que se destaca por sua moderação focada e por oferecer uma série de recursos interativos para os usuários. Este repositório contém alguns dos comandos e sistemas que desenvolvi para o bot, permitindo que você veja como ele funciona e como pode ser configurado.
+<b>Lua</b> é uma bot de Discord que se destaca por sua moderação focada e por oferecer uma série de recursos interativos para os usuários. Este repositório contém alguns dos comandos e sistemas que desenvolvi para o bot, permitindo que você veja como ele funciona e como pode ser configurado.
 
 ## Recursos
 
