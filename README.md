@@ -28,7 +28,7 @@ Bem-vindo ao repositório da <b>Lua</b>, o bot público de Discord criado para o
 
 <ol>
   <li><b>Clone este repositório</b>:<br>
-    <code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code>
+    <code>git clone https://github.com/aethyago/Lua.git</code>
   </li>
   <li><b>Instale as dependências</b>:<br>
     Navegue até o diretório do projeto e execute:<br>
